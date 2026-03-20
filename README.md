@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My repos are very messy, it's presented more coherently at [my profile.io](https://pritraj1.github.io/).
+My repos are very messy, it's presented more coherently [here](https://pritraj1.github.io/).
 
 Everything past 2024 is just experiments for trial hiring or prototyping.
 
