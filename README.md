@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-My repos are very messy, it's presented more coherently [here](https://pritraj1.github.io/).
-
-Everything past 2024 is just experiments for trial hiring or prototyping.
+[https://pritraj1.github.io/](https://pritraj1.github.io/).
 
 <!--
 **PritRaj1/PritRaj1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
